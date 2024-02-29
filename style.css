@@ -1,0 +1,12 @@
+tr th {
+    width: 100px;
+    height: 30px;
+}
+tr td {
+    width: 100px;
+    height: 30px;
+    font-variant: small-caps;
+}
+tr td:first-child{
+    text-align: center;
+}
